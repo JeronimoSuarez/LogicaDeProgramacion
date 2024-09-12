@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+4
+1
+138
+'Ingrese el valor de los coeficientes de la expresion cuadratica en orden a, b, c donde cada termino esta ordenado de mayor a menor grado'
+5
+1
+7
+a, b, c
+6
+2
+2
+x1
+26
+(-b+sqrt((b^2)-4*a*c))/2*a
+2
+x2
+26
+(-b-sqrt((b^2)-4*a*c))/2*a
+4
+1
+70
+'Los valores de solucion a la ecuacion cuadratica son: ', x1, ', ', x2
+1

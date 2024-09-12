@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+c
+1
+0
+4
+1
+54
+'Ingrese el valor de la temperatura en grados Celsius'
+5
+1
+1
+c
+6
+1
+1
+f
+10
+(c*9/5)+32
+4
+1
+57
+'El valor de la temperatura en grados Fahrenheit es: ', f
+1

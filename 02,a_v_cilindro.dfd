@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+pi
+6
+3.1416
+1
+r
+1
+0
+1
+h
+1
+0
+4
+1
+58
+'Ingrese el radio y la altura (en ese orden) del cilindro'
+5
+1
+4
+r, h
+6
+2
+1
+a
+10
+2*(pi*r*h)
+1
+v
+10
+pi*(r*r*h)
+4
+1
+40
+'El area es: ', a, ' El volumen es: ', v
+1

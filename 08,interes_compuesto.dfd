@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+ci
+1
+0
+1
+i
+1
+0
+1
+t
+1
+0
+4
+1
+135
+'Ingrese el valor de el capital inicial, la tasa de interes (como un decimal con punto flotante) y el periodo de tiempo (en ese orden)'
+5
+1
+8
+ci, i, t
+6
+1
+2
+cf
+12
+ci*((1+i)^t)
+4
+1
+44
+'El valor del interes compuesto es de: ', cf
+1

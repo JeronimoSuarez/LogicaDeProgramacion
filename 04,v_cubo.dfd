@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+a
+1
+0
+4
+1
+40
+'Ingrese el valor de la arista del cubo'
+5
+1
+1
+a
+6
+1
+1
+v
+5
+a*a*a
+4
+1
+42
+'El valor del volumen del cubo es de: ', v
+1

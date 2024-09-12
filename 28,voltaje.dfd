@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+i
+1
+0
+1
+r
+1
+0
+4
+1
+51
+'Ingrese el valor de la corriente y la resistencia'
+5
+1
+4
+i, r
+6
+1
+1
+v
+3
+i*r
+4
+1
+43
+'El valor de el voltaje en voltios es: ', v
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+b
+1
+0
+1
+h
+1
+0
+4
+1
+55
+'Ingrese el valor de la base y la altura del triangulo'
+5
+1
+4
+b, h
+6
+1
+1
+a
+7
+(b*h)/2
+4
+1
+41
+'El valor del area del triangulo es: ', a
+1

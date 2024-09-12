@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+v
+1
+0
+1
+r
+1
+0
+4
+1
+49
+'Ingrese el valor de el voltaje y la resistencia'
+5
+1
+4
+v, r
+6
+1
+1
+i
+3
+v/r
+4
+1
+63
+'El valor de la intensidad de la corriente en amperios es: ', i
+1

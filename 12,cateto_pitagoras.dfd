@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+c2
+1
+0
+1
+h
+1
+0
+4
+1
+71
+'Ingrese el valor de el cateto conocido y la hipotenusa (en ese orden)'
+5
+1
+5
+c2, h
+6
+1
+2
+c1
+18
+sqrt((h^2)-(c2^2))
+4
+1
+42
+'El valor del cateto desconocido es: ', c1
+1

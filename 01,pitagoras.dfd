@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+cata
+1
+0
+4
+catb
+1
+0
+4
+1
+33
+'Ingrese el valor de los catetos'
+5
+1
+10
+cata ,catb
+6
+1
+3
+hip
+25
+sqrt(cata*cata+catb*catb)
+4
+1
+25
+'La hipotenusa es: ', hip
+1

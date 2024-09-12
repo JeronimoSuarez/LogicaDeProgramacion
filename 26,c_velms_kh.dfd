@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+3
+vel
+1
+0
+4
+1
+43
+'Ingrese el valor de la velocidad en m/seg'
+5
+1
+3
+vel
+6
+1
+5
+velkh
+13
+(vel)/(10/36)
+4
+1
+46
+'El valor de la velocidad en km/h es: ', velkh
+1

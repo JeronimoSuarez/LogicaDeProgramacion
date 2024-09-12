@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+v
+1
+0
+1
+x
+1
+0
+4
+1
+49
+'Ingrese el valor de la velocidad y la dsitancia'
+5
+1
+4
+v, x
+6
+1
+1
+t
+3
+x/v
+4
+1
+32
+'El valor del tiempo es de: ', t
+1

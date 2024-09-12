@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+4
+1
+138
+'Ingrese el valor de los coeficientes de la expresion cuadratica en orden a, b, c donde cada termino esta ordenado de mayor a menor grado'
+5
+1
+7
+a, b, c
+6
+2
+1
+x
+8
+-b/(2*a)
+1
+y
+21
+((4*a*c)-(b^2))/(4*a)
+4
+1
+77
+'el valor de la coordenada donde esta el vertice es: ', '(', x, ', ', y, ')' 
+1

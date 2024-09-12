@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+pi
+6
+3.1416
+1
+b
+1
+0
+4
+1
+41
+'Ingrese el valor de el angulo en grados'
+5
+1
+1
+b
+6
+1
+1
+r
+8
+b*pi/180
+4
+1
+41
+'El valor del angulo en radianes es: ', r
+1

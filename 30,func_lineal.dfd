@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+m
+1
+0
+1
+x
+1
+0
+1
+b
+1
+0
+4
+1
+92
+'Ingrese el valor de la pendiente, el reemplazo en x y el corte con el eje y (en ese orden)'
+5
+1
+7
+m, x, b
+6
+1
+1
+y
+7
+(m*x)+b
+4
+1
+32
+'El valor de la funcion es: ', y
+1

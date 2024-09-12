@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+m
+1
+0
+1
+a
+1
+0
+4
+1
+57
+'Ingrese el valor de la masa y la aceleracion del objeto'
+5
+1
+4
+m, a
+6
+1
+1
+f
+3
+m*a
+4
+1
+31
+'El valor de la fuerza es: ', f
+1
